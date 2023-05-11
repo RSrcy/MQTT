@@ -1,0 +1,5 @@
+mosquitto扩展库的主要函数及对应的MQTT协议中的控制报文
+一     扩展库版本、初始化函数及资源释放
+
+int mosquitto_lib_version(int *major,int *minor, int *revision)
+
